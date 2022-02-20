@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm a Software Developer.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mkloar.mkloar)
-
 [![Twitter: MihaK](https://img.shields.io/twitter/follow/MihaK87?style=social)](https://twitter.com/MihaK87)
 [![Linkedin: MihaK](https://img.shields.io/badge/-mkloar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkloar/)](https://www.linkedin.com/in/mkloar/)
 
@@ -100,3 +98,7 @@ aboutMeService.getHobbies();
 ## 📈 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mkloar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkloar&hide=TeX&layout=compact)
+
+![Built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mkloar.mkloar)
